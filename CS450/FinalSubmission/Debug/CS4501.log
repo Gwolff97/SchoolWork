@@ -1,0 +1,53 @@
+﻿  HitRecord.cpp
+c:\users\gerald\source\repos\cs4501\cs4501\hitrecord.cpp(19): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\gerald\source\repos\cs4501\cs4501\hitrecord.cpp(20): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Light.cpp
+c:\users\gerald\source\repos\cs4501\cs4501\light.cpp(22): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\gerald\source\repos\cs4501\cs4501\light.cpp(23): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\gerald\source\repos\cs4501\cs4501\light.cpp(28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Main.cpp
+  Material.cpp
+c:\users\gerald\source\repos\cs4501\cs4501\material.cpp(20): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Scene.cpp
+c:\users\gerald\source\repos\cs4501\cs4501\scene.cpp(28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\gerald\source\repos\cs4501\cs4501\scene.cpp(144): warning C4018: '<': signed/unsigned mismatch
+c:\users\gerald\source\repos\cs4501\cs4501\scene.cpp(182): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\gerald\source\repos\cs4501\cs4501\scene.cpp(183): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Sphere.cpp
+c:\users\gerald\source\repos\cs4501\cs4501\sphere.cpp(19): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\gerald\source\repos\cs4501\cs4501\sphere.cpp(70): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\gerald\source\repos\cs4501\cs4501\sphere.cpp(71): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  CS4501.vcxproj -> C:\Users\Gerald\source\repos\CS4501\Debug\CS4501.exe
